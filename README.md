@@ -1,7 +1,5 @@
 # Diabetes-Prediction
 
-Here's a README file based on the provided code and explanations:
-
 **Pima Indians Diabetes Dataset Classification**
 
 This project implements a machine learning model to classify diabetic patients using the Pima Indians Diabetes Dataset. It utilizes Support Vector Machines (SVM) with a linear kernel for prediction.
